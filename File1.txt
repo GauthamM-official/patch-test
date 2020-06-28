@@ -1,2 +1,2 @@
 test1
-test3 from patch
+test3(2) from patch
